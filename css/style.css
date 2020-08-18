@@ -113,17 +113,14 @@ a:hover {
 
 .top-cloud {
     position: absolute;
-    right: 350px;
-    top: 40px;
+    right: 320px;
+    top: 65px;
 }
 
 .bottom-cloud {
     position: absolute;
-    left: 350px;
-}
-
-.love2 {
-    margin-top: 130px;
+    left: 305px;
+    top: 420px;
 }
 
 .copyright {
